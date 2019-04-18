@@ -1,0 +1,29 @@
+package edu.vt.cs5044;
+
+/**
+ * This is my Project 0 Hello5044 class.
+ * 
+ * @author sugie
+ * @version Aug 24, 2018
+ */
+public class Hello5044
+{
+
+    /**
+     * I am using 5 of the PrintStream class methods println to display the ASCII art CS5044 in the
+     * command window.
+     * 
+     * @param args
+     *            Identifies that the main method contains Strings.
+     */
+    public static void main(String[] args)
+    {
+        System.out.println("  ____  ____    ____    ___   _  _    _  _   ");
+        System.out.println(" / ___|/ ___|  | ___|  / _ ~ | || |  | || |  ");
+        System.out.println("| |    ~___ ~  |___ ~ | | | || || |_ | || |_ ");
+        System.out.println("| |___  ___) |  ___) || |_| ||__   _||__   _|");
+        System.out.println(" ~____||____/  |____/  ~___/    |_|     |_|  ");
+
+    }
+
+}
